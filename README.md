@@ -36,9 +36,14 @@ TUNING HYPERPARAMETRS IS THE KEY TO ACHIEVE THE DESIRED OUTPUT like-
 2. Values of a and b, these are the weights of content loss and style loss adjust them to control the balance between content and style image.
 
 # RESULTS
-Content image -                                                                                   Style image - 
+**Content image** and **Style image**  
 
-![3](https://user-images.githubusercontent.com/108794407/226840568-0069e571-41fd-45f8-884e-2100af182639.png)  # +  ![4](https://user-images.githubusercontent.com/108794407/226841180-b900ed18-b797-4f6f-a5c8-3bcd586cf8ed.jpg)
+![3](https://user-images.githubusercontent.com/108794407/226840568-0069e571-41fd-45f8-884e-2100af182639.png)            +      ![4](https://user-images.githubusercontent.com/108794407/226841180-b900ed18-b797-4f6f-a5c8-3bcd586cf8ed.jpg) 
+
+**Generated Image**
+
+![5](https://user-images.githubusercontent.com/108794407/226842951-dd7ded87-a03c-43f6-9d4e-84520aad02c8.jpg)
+
 
 
 
