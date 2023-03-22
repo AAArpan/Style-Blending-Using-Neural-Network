@@ -1,4 +1,4 @@
-# Style-Blending-Using-Neural-Network
+# Style-Blending-Using-Neural-Networks
 A generative model that uses style transfer to blend the two images to generate new one.
 
 Neural style transfer is a technique used in deep learning to transfer the style of one image to another image while preserving the content of the original image. It works by using a pre-trained neural network to separate and recombine the content and style of two different images.
